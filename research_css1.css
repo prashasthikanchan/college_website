@@ -1,0 +1,35 @@
+*{
+	margin:0;
+	padding: 0;
+	box-sizing: border-box;
+
+}	
+.header{
+	background: #b181b1;
+	padding: 10px;
+	color: white;
+	display:flex;
+	align-items: center;
+}
+nav{
+	flex:1;
+	text-align: right;	
+}
+nav ul{
+	display: inline-block;
+	list-style-type: none;
+	margin-right: 20px;
+}
+nav ul li{
+	display: inline-block;
+}	
+a{
+	text-decoration: none;
+	color: white;
+	font-size: 20px;
+	padding: 15px 10px;
+}
+a:hover{
+	background: #6f446f;
+	padding: 15px 10px;	
+}
