@@ -42,11 +42,11 @@
 }
 .banner header
 {
-	position: fixed;
+	position: absolute;
 	top:0;
 	left: 0;
 	width: 100%;
-	padding: 20px 100px;
+	padding: 30px 100px;
 	display: flex;
 	justify-content: space-between;
 	align-items: center;
@@ -88,10 +88,15 @@ a:hover{
 	padding: 15px 10px;
     border-bottom: 2px solid #fff;
 }
-.scrolling-active{
-	padding-top: 10px;
-    background-color: #4f0c99;
-}
-.scrolling-active header {
-	 padding-top: 10px;
+.m{
+	position:absolute;
+	right:0;
+	bottom:0;
+	min-width:100% ;
+	min-height: 100%;
+	width:auto;
+	height:auto;
+	z-index: -1000;
+	opacity: 0.7;
+
 }
