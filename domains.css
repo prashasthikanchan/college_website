@@ -16,8 +16,7 @@ body{
   padding:100px 0;
   position: absolute;
   top:650px;
-  background-color:gray;
-  background:transparent;
+ background: rgba(38, 81, 166, 0.2);
   
 }
 
