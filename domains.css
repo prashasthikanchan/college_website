@@ -98,7 +98,7 @@ body{
   transition: color .8s ease;
 }
 .services .content .box:hover .inner .icon{
-  color:#ff80bf;
+  color:#00004d;
 }
 .services .content .box .inner h3{
   font-size: 25px;
