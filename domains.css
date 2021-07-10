@@ -88,7 +88,7 @@ body{
 }
 .services .content .box:hover .inner::after,
 .services .content .box:hover .inner::before{
-   border-color: #ff80bf;
+   border-color: #00004d;
    width: 100%;
    height: 100%;
 }
