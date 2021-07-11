@@ -181,11 +181,13 @@ a:hover{
 
 .footer_main{
 	position:absolute;
-	top:500px;
+	top:700px;
 	border-top: black solid;
 	width:1495px;
 	height:500px;
 	opacity: 0.8;
+	left:0px;
+	
 	background-color: gray;
 }
 .footer{
