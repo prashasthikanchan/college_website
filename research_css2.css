@@ -177,3 +177,51 @@ a:hover{
 	padding: 10px 10px;
 	border-bottom: 2px solid #fff;
 }
+
+
+.footer_main{
+	position:absolute;
+	top:500px;
+	border-top: black solid;
+	width:1495px;
+	height:500px;
+	opacity: 0.8;
+	background-color: gray;
+}
+.footer{
+
+	position:absolute;
+	right:0px;
+	left:800px;
+	
+	top:600px;
+	
+	
+}
+
+.footer2{
+	position:absolute;
+	left:150px;
+	font-size:30px;
+	
+	top:600px;
+	
+}
+.dsulogo{
+	position:absolute;
+	top:650px;
+	left:450px;
+	
+}
+#dsuulogo{
+	border-radius:70%;
+}
+.copyright{
+	position:relative;
+	top:530px;
+	left:550px;
+	right:0px;
+	font-size:20px;
+
+}
+
