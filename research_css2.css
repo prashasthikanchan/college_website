@@ -109,6 +109,7 @@ a:hover{
     margin-top: 10px;
     margin-bottom: 16px;
     resize: vertical;
+	  background-color: #b3b3cc;
   }
   
   input[type=email],
@@ -120,6 +121,7 @@ a:hover{
     margin-top: 10px;
     margin-bottom: 16px;
     resize: vertical;
+	  background-color: #b3b3cc;
   }
   
   input[type=submit] {
